@@ -1,0 +1,10 @@
+# Ignore Node.js modules (installed dependencies)
+node_modules/
+
+# Ignore environment configuration files (e.g., .env)
+
+# Ignore build output and logs
+/build
+/logs
+
+# Ignore any other generated or sensitive files/directories
